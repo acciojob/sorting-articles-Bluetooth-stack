@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+body{
+	background: url("https://images.pexels.com/photos/1481581/pexels-photo-1481581.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.container{
+	background: white;
+	padding-left: 0;
+	margin-left: 0;
+	border-left: 15px solid rgba(0, 0, 0, 0.4);
+	border-right: 15px solid rgba(0, 0, 0, 0.4);
+	width: 250px;
+	position: absolute;
+	left: 40%;
+}
+#band div{
+	border-bottom: 1px solid lightgray;
+	padding: 8px 0 8px 0;
+	margin-left: 0;
+	
+}
+#band{
+	padding-left: 28px;
+	margin-left: 0;
+}
