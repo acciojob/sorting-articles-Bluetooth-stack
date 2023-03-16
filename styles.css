@@ -14,13 +14,13 @@ body{
 	position: absolute;
 	left: 40%;
 }
-#band div{
+#bands div{
 	border-bottom: 1px solid lightgray;
 	padding: 8px 0 8px 0;
 	margin-left: 0;
 	
 }
-#band{
+#bands{
 	padding-left: 28px;
 	margin-left: 0;
 }
